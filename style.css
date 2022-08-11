@@ -6,7 +6,7 @@
 }
 
 body {
-  background-color: #FFEDD5;
+  background-color: #f03406;
 }
 
 ul {
@@ -47,7 +47,7 @@ header h1 {
 }
 
 header h1 span {
-  color: #995000;
+  color: #ec240ae1;
 }
 
 /* SECTION */
@@ -62,6 +62,7 @@ section h2 {
 
   margin-bottom: 24px;
   font-size: 18PX;
+  border-radius: 4px;
 }
 
 ul li {
